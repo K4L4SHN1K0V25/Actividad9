@@ -57,6 +57,7 @@ graph TD
     MUTEX -- Unlock --> PSIG
     PSIG -- Signal --> SEM_FULL
 
+
     WAIT_C -- Esperar --> SEM_FULL
     GET -- Lock --> MUTEX
     MUTEX -- Unlock --> CSIG
