@@ -1,6 +1,5 @@
 /*
   PRODUCTOR - CONSUMIDOR - Implementación en C++ (concurrencia)
-  - Comentarios en español.
   - Búfer acotado, varios productores y consumidores.
 
   Compilar: g++ -std=c++17 "productor_consumidor.cpp" -o prodcons -pthread
