@@ -31,9 +31,5 @@ g++ -std=c++17 "productor_consumidor.cpp" -o prodcons.exe -pthread
 .\prodcons.exe 2 2 5 10
 ```
 
-Notas:
-- Si tu compilador MinGW en Windows no acepta `-pthread`, prueba a quitarla.
-- Si prefieres que sobreescriba o renombre archivos, dímelo y lo ajusto.
-
 Para detalles y opciones adicionales consulta `README_INSTRUCCIONES.md`.
 # Actividad9
