@@ -1,6 +1,5 @@
 /*
   BARBERO DORMILON - Implementación en C++ (concurrencia)
-  - Comentarios y mensajes en español.
   - Modelo: un barbero y varias sillas de espera (problema del barbero durmiente).
   - Ejecución: el barbero duerme si no hay clientes; los clientes llegan, esperan si hay sillas,
     o se van si no hay lugar.
