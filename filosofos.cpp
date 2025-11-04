@@ -1,6 +1,5 @@
 /*
   CENA DE LOS FILOSOFOS - Implementación en C++ (concurrencia)
-  - Comentarios y mensajes en español.
   - Solución usando un portero (semaphore) que permite como máximo N-1 filósofos sentarse
     para evitar interbloqueo.
 
